@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rms5213)](https://solved.ac/rms5213/)
 
 <!--
 **rms5213/rms5213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
