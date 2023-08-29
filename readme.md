@@ -1,8 +1,6 @@
 
 
-<div align=center>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rms5213)](https://solved.ac/rms5213/)
-</div>
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
