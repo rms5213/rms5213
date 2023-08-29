@@ -1,5 +1,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rms5213)](https://solved.ac/rms5213/)
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 <!--
 **rms5213/rms5213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
