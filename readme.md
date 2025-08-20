@@ -20,7 +20,7 @@
   <br>
   
   <a href="https://github.com/doongjun/commitmon">
-  <img alt="commitmon" src="https://commitmon.me/adventure?username=doongjun&theme=grassland" width="600px" />
+  <img alt="commitmon" src="https://commitmon.me/adventure?username=rms5213&theme=grassland" width="600px" />
 </a>
 </div>
 <!--
