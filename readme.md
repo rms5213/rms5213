@@ -19,41 +19,16 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <br>
   
+  <div align=center><h1></h1></div>
+
   <a href="https://github.com/doongjun/commitmon">
   <img alt="commitmon" src="https://commitmon.me/adventure?username=rms5213&theme=grassland" width="600px" />
 </a>
 </div>
 
 
-## Getting Start
 
-#### Image URL
-
-```shell
-https://commitmon.me/adventure?username=${username}&theme=${theme}&userFetchType=${userFetchType}
-```
-
-| Parameter       | Type                                                                              | Description                    | Default Value |
-|:----------------|:----------------------------------------------------------------------------------|:-------------------------------|:--------------|
-| `username`      | `string`                                                                          | **Required**. Your Github Name | -             |
-| `theme`         | `grassland` \| `desert` \| `transparent`                                          | Theme Of Commitmon.            | `grassland`   |
-| `userFetchType` | `all`(following and followers) \| `mutual`(following each other) \| `solo`(alone) | Type of Friends to fetch       | `mutual`      |
- 
-Actually, you can use the image URL directly in the markdown file.
-
-```markdown
-<a href="https://github.com/doongjun/commitmon">
-  <img alt="commitmon" src="https://commitmon.me/adventure?username=${username}&theme=${theme}&userFetchType=${userFetchType}" width="600px" />
-</a>
-```
-
-## Tips
-
-- The Digimon is <u>generated and fixed when the image is first loaded.</u>
-- <u>The number of commits is updated periodically</u>. If it's not reflected in real time, please wait a moment.
-
-## Digimon Encyclopedia
-
+<!--
 |                                              BABY                                               |                                         IN_TRAINING                                          |                                            ROOKIE                                            |                                            CHAMPION                                             |                                               PERFECT                                                |                                                ULTIMATE                                                 |
 |:-----------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
 |   ![botamon](https://github.com/user-attachments/assets/92ad7b3c-403f-43b3-bd18-f227fbb14c09)   | ![koromon](https://github.com/user-attachments/assets/a62c6bb3-2f55-4c3a-b642-c552ff6c3164)  |  ![agumon](https://github.com/user-attachments/assets/74bc18e5-1a83-4063-b41b-61ba8647012b)  |   ![greymon](https://github.com/user-attachments/assets/885e9bb6-a5e0-4688-a31a-13991d5f986f)   |   ![metalgreymon](https://github.com/user-attachments/assets/6102a2ba-4abf-4f5e-8b99-8adaee7ee8aa)   |     ![wargreymon](https://github.com/user-attachments/assets/e0456bad-f794-41e6-a231-dd658d1ba5c9)      |
@@ -65,30 +40,7 @@ Actually, you can use the image URL directly in the markdown file.
 |  ![pichimon](https://github.com/user-attachments/assets/4f100746-c6c6-4e55-a12b-b80e4058ae6e)   | ![pukamon](https://github.com/user-attachments/assets/3d7155a8-2e03-4d2f-a157-d1577e3200d6)  | ![gomamon](https://github.com/user-attachments/assets/329fc8ee-9e3f-45fd-8bf3-f6da80ab178a)  |  ![ikkakumon](https://github.com/user-attachments/assets/72eb0805-c8ea-4844-ac70-f22139c56ab8)  |     ![zudomon](https://github.com/user-attachments/assets/619d968a-94fd-4747-871c-fe15ba03ffe6)      |       ![vikemon](https://github.com/user-attachments/assets/034a4d4f-57da-4eba-a6b1-db11eb4d91f4)       |
 | ![snowbotamon](https://github.com/user-attachments/assets/6841ca8e-72f8-42ae-b505-e7ccd272833e) | ![nyaromon](https://github.com/user-attachments/assets/cbf3c798-a78a-45ca-bb38-86ac5ff6b1e5) | ![salamon](https://github.com/user-attachments/assets/b349a29f-3b19-48bb-a515-191394adee7f)  |   ![gatomon](https://github.com/user-attachments/assets/921c7125-0b8d-445c-b97c-678e415105a2)   |    ![angewomon](https://github.com/user-attachments/assets/bfb9b87a-5b58-4fd1-9e90-467cd154a7d8)     |     ![holydramon](https://github.com/user-attachments/assets/37ced155-c5e4-4924-8a7b-f4e68fdf9f03)      |
 
-and more....
-
-## Commitmon Change Request
-
-If you'd like to change your Commitmon, please send an email to **[doongjun.kim@gmail.com](mailto:doongjun.kim@gmail.com)**.  
-We'll be happy to assist you!
-
-## Image License Information
-
-The images are provided by <b>Loco</b>.
-
-##
-
-<div align="center">
-
-If you have any ideas or discover a bug, please issue it or contribute.  
-We will do our best to make it better.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoongjun%2Fcommitmon&count_bg=%23E4770A&title_bg=%23000000&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![GitHub Repo stars](https://img.shields.io/github/stars/doongjun/commitmon?style=flat&labelColor=%23000000&color=%230a65af)
-
-</div>
-
-
+-->
 
 
 
