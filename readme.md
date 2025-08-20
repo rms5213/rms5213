@@ -9,7 +9,6 @@
 
 <div align=center> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
@@ -19,6 +18,10 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <br>
+  
+  <a href="https://github.com/doongjun/commitmon">
+  <img alt="commitmon" src="https://commitmon.me/adventure?username=doongjun&theme=grassland" width="600px" />
+</a>
 </div>
 <!--
 **rms5213/rms5213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
